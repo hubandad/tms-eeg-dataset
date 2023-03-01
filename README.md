@@ -1,8 +1,6 @@
 # Public TMS-EEG Dataset
 
 
-本期推文是 Public Neuroscience Dataset  系列主题的第五期内容。这期推文小编与大家分享TMS-EEG公开数据集。 
-
 经颅磁刺激（Transcranial Magnetic Stimulation, TMS）技术是一种基于电磁感应与电磁转换原理的神经调控技术，它具有无痛，绿色，安全等特点。自诞生起的二十多年间，TMS在临床和科研中都具有非常广泛的应用。它的问世，无疑将神经功能的干预，调制和治疗提升到一个新的高度。 
 
 脑电图（Electroencephalography, EEG）是一种记录活体大脑神经元活动时所产生的电位活动的技术，脑电图在临床诊疗和科研中得到非常广泛的应用，且应用技术十分成熟。 
